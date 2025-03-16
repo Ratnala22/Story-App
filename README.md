@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Story-App
 =======
 # React + Vite
